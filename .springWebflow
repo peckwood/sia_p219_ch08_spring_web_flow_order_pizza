@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webflow-project-description>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.0.201707061730-RELEASE]]></pluginVersion>
+	<configs>
+		<config>
+			<file>src/main/webapp/WEB-INF/flows/pizza/customer/customer-flow.xml</file>
+			<name><![CDATA[customer-flow]]></name>
+		</config>
+		<config>
+			<file>src/main/webapp/WEB-INF/flows/pizza/customer/customer-flow.xml</file>
+			<name><![CDATA[customer]]></name>
+		</config>
+	</configs>
+</webflow-project-description>
