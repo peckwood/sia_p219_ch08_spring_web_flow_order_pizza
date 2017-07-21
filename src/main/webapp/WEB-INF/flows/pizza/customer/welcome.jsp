@@ -10,7 +10,7 @@
 		<form:form>
       <input type="hidden" name="_flowExecutionKey" 
              value="${flowExecutionKey}"/>
-		  <input type="text" name="phoneNumber"/><br/>
+		  <input type="text" name="phoneNumber" value="9725551234"/><br/>
       <input type="submit" name="_eventId_phoneEntered" value="Lookup Customer" />
 		</form:form>
 	</body>
